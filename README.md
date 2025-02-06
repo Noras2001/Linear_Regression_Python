@@ -56,10 +56,6 @@ Standard error: 0.04047702383305126
 y=0.28*x+1.44
 ```
 
-### Plot:
-
-- A scatter plot of the data points (`horas_estudio` vs. `notas`).
-- A red line representing the fitted linear regression model.
 
 ## License
 
